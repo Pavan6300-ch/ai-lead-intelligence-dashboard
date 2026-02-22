@@ -25,3 +25,16 @@ Automated recommended actions
 KPI dashboard visualization
 
 Cloud deployed application
+💡 Use Case
+
+Businesses can prioritize leads based on predicted conversion probability and optimize sales outreach strategy.
+
+🛠 Tech Stack
+
+Python
+
+Streamlit
+
+Scikit-learn
+
+Pandas
