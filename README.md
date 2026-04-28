@@ -8,7 +8,7 @@ Scikit-learn (RandomForest ML Model)
 
 Pandas (Data Processing)
 
-🔍 Features
+ Features
 
 Upload CSV leads dataset
 
@@ -25,7 +25,7 @@ Cloud deployed application
 
 Businesses can prioritize leads based on predicted conversion probability and optimize sales outreach strategy.
 
-🛠 Tech Stack
+ Tech Stack
 
 Python
 
