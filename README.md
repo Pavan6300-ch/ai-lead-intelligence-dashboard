@@ -1,8 +1,4 @@
-1️⃣ Add a Strong README (Very Important)
-
-Go to your GitHub repo → Edit README.md → Paste this:
-
-🚀 AI Sales Lead Intelligence Dashboard
+ AI Sales Lead Intelligence Dashboard
 
 This is a machine learning-powered lead scoring system built using:
 
@@ -25,7 +21,7 @@ Automated recommended actions
 KPI dashboard visualization
 
 Cloud deployed application
-💡 Use Case
+ Use Case
 
 Businesses can prioritize leads based on predicted conversion probability and optimize sales outreach strategy.
 
